@@ -1301,7 +1301,7 @@ Permet aux utilisateurs de se connecter, même après que le système d\'authent
       'The default value is 200. Larger numbers can cause the users browsers to freeze.' => 'La valeur par défaut est 200. Des nombres plus grands peuvent geler les navigateurs des utilisateurs.',
       'Enabling this will allow access to the users that do not have an account with the third-party system.' => 'Activer ceci permettra l\'accès aux utilisateurs qui n\'ont pas de compte avec le système tiers.',
       'List users' => 'Liste des utilisateurs',
-      'Enable LibreOffice support.' => 'Utiliser le supprt LibreOffice.',
+      'Enable LibreOffice support.' => 'Utiliser le support LibreOffice.',
       'Path to LibreOffice binary' => 'Chemin vers le binaire de LibreOffice',
       'Generate LibreOffice thumbnails for the following file types' => 'Générer les miniatures LibreOffice pour les types de fichiers suivants',
       'For a SSL connection start the hostname with "ldaps://"' => 'Utiliset l\'entête "ldaps://" pour une connexion SSL',
